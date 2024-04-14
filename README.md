@@ -39,9 +39,8 @@
 
 <!-- About Section -->
 # About me
-
 <p>
- <img align="right" width="350" src="/assets/cramdev.png" alt="Coding gif" />
+<img align="right" width="300" src="/assets/cramdev.png" alt="Coding gif" />
  🔭 &emsp; College Student & Partime C# Developer <br/><br/>
  📚 &emsp; Tech Stack: ASP.NET<br/><br/>
  📧 &emsp; Reach me anytime: marcnelsonbelasa008@gmail.com<br/><br/>
@@ -65,9 +64,9 @@
 
 <br/>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/belasaCram?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+</p> -->
 
 <br/>
 <hr/>
