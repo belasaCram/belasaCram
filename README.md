@@ -40,7 +40,7 @@
 <!-- About Section -->
 # About me
 <p>
-<img align="right" width="300" src="/assets/cramdev.png" alt="Coding gif" />
+<img align="left" width="300" src="/assets/cramdev.png" alt="Coding gif" />
  🔭 &emsp; College Student & Partime C# Developer <br/><br/>
  📚 &emsp; Tech Stack: ASP.NET<br/><br/>
  📧 &emsp; Reach me anytime: marcnelsonbelasa008@gmail.com<br/><br/>
