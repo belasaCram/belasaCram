@@ -31,16 +31,22 @@
 <!--  <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Cram" />
  </a>  -->
+ <a href="https://cramsus.itch.io/" target="_blank">
+   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+ </a>
+ <a href="https://www.sololearn.com/en/profile/26797502" target="_blank">
+   <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/>
+ </a>
  <a href="https://www.facebook.com/CramSonelAsaleb" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Cram"/>
   </a> 
 </p>
+<img align="right" width="300" src="/assets/cramdev.png" alt="Coding gif" />
 <br />
 
 <!-- About Section -->
 # About me
 <p>
-<img align="left" width="300" src="/assets/cramdev.png" alt="Coding gif" />
  🔭 &emsp; College Student & Partime C# Developer <br/><br/>
  📚 &emsp; Tech Stack: ASP.NET<br/><br/>
  📧 &emsp; Reach me anytime: marcnelsonbelasa008@gmail.com<br/><br/>
