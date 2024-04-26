@@ -37,9 +37,9 @@
  <a href="https://www.sololearn.com/en/profile/26797502" target="_blank">
    <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/>
  </a>
- <a href="https://www.facebook.com/CramSonelAsaleb" target="_blank">
+<!--  <a href="https://www.facebook.com/CramSonelAsaleb" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Cram"/>
-  </a> 
+  </a>  -->
 </p>
 <img align="right" width="300" src="/assets/cramdev.png" alt="Coding gif" />
 <br />
