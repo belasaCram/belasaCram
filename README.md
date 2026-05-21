@@ -107,17 +107,7 @@ email:      marcnelsonbelasa008@gmail.com
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=belasaCram&theme=tokyonight&border=6366F1&background=0D1117&ring=6366F1&fire=F472B6&currStreakLabel=6366F1" alt="GitHub Streak" width="49%"/>
 </a>
 
-<!-- General Stats -->
-<a href="https://github.com/belasaCram">
-  <img src="https://github-readme-stats.vercel.app/api?username=belasaCram&show_icons=true&count_private=true&theme=tokyonight&border_color=6366F1&bg_color=0D1117&title_color=6366F1&icon_color=F472B6" alt="GitHub Stats" width="49%"/>
-</a>
-
 <br/><br/>
-
-<!-- Top Languages -->
-<a href="https://github.com/belasaCram">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belasaCram&langs_count=8&layout=compact&theme=tokyonight&border_color=6366F1&bg_color=0D1117&title_color=6366F1&icon_color=F472B6" alt="Top Languages" width="40%"/>
-</a>
 
 <!-- WakaTime or Trophy (no WakaTime needed) -->
 <a href="https://github.com/belasaCram">
