@@ -138,6 +138,21 @@ email:      marcnelsonbelasa008@gmail.com
 
 ## 🏆 Achievements & Fun Facts
 
+**📈 GitHub At a Glance**
+
+| Stat | Value |
+|------|-------|
+| 🟢 Total Contributions | **691** _(Feb 13, 2022 – Present)_ |
+| 🔥 Longest Streak | **22 days** _(Jan 13 – Feb 3, 2025)_ |
+| 🏅 Experience | **Intermediate Dev** · 15pt |
+| 💬 Commits | **Middle Committer** · 74pt |
+| 📦 Repositories | **Middle Repo Creator** · 18pt |
+| ⭐ Stars | **First Star** · 4pt |
+| 👥 Followers | **First Friend** · 6pt |
+| 🔀 Pull Requests | **First Pull** · 2pt |
+
+<br/>
+
 - 🎓 Currently studying and leveling up every day
 - 🎮 Hobby game developer on [Itch.io](https://cramsus.itch.io/)
 - 🌱 Currently deepening knowledge in **Next.js**, **Supabase**, and **AI-assisted development**
