@@ -31,14 +31,48 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name:       Marc Nelson Belasa (Cram)
-role:       Aspirant Software Developer
-status:     College Student & Part-time C# Developer
-location:   Philippines 🇵🇭
-main_stack: ASP.NET Core · C# · SQL
-familiar:   Next.js · React · MongoDB · Supabase
-ai_tools:   Claude (Claude Code) · ChatGPT · AntiGravity
-email:      marcnelsonbelasa008@gmail.com
+name: Marc Nelson Belasa
+alias: Cram
+title: Software Engineer
+role: Full-Stack .NET Developer
+company: MNLeistung
+employment: Contract | Hybrid
+education: BS Information Technology @ STI College
+location: Philippines 🇵🇭
+
+specialization:
+  - Enterprise Application Development
+  - Full-Stack Web Development
+  - Software Architecture & Modernization
+  - Database Design & Optimization
+
+tech_stack:
+  primary:
+    - C#
+    - ASP.NET Core
+    - SQL Server
+    - Entity Framework Core
+    - JavaScript
+    - DevExpress / DevExtreme
+  familiar:
+    - Next.js
+    - React
+    - MongoDB
+    - Supabase
+
+ai_development:
+  - Claude Code
+  - OpenAI Codex
+  - ChatGPT
+  - Google Antigravity
+
+currently:
+  working_on: Enterprise Financial Management Systems
+  learning: Clean Architecture & System Design
+  exploring: AI-Assisted Software Engineering
+
+contact:
+  email: marcnelsonbelasa008@gmail.com
 ```
 
 > _"Every expert was once a beginner. Keep building, keep learning."_
